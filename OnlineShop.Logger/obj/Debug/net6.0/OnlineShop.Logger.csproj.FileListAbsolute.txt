@@ -1,0 +1,12 @@
+D:\Projects\OnlineShop\OnlineShop.Logger\bin\Debug\net6.0\OnlineShop.Logger.deps.json
+D:\Projects\OnlineShop\OnlineShop.Logger\bin\Debug\net6.0\OnlineShop.Logger.dll
+D:\Projects\OnlineShop\OnlineShop.Logger\bin\Debug\net6.0\OnlineShop.Logger.pdb
+D:\Projects\OnlineShop\OnlineShop.Logger\obj\Debug\net6.0\OnlineShop.Logger.csproj.AssemblyReference.cache
+D:\Projects\OnlineShop\OnlineShop.Logger\obj\Debug\net6.0\OnlineShop.Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OnlineShop\OnlineShop.Logger\obj\Debug\net6.0\OnlineShop.Logger.AssemblyInfoInputs.cache
+D:\Projects\OnlineShop\OnlineShop.Logger\obj\Debug\net6.0\OnlineShop.Logger.AssemblyInfo.cs
+D:\Projects\OnlineShop\OnlineShop.Logger\obj\Debug\net6.0\OnlineShop.Logger.csproj.CoreCompileInputs.cache
+D:\Projects\OnlineShop\OnlineShop.Logger\obj\Debug\net6.0\OnlineShop.Logger.dll
+D:\Projects\OnlineShop\OnlineShop.Logger\obj\Debug\net6.0\refint\OnlineShop.Logger.dll
+D:\Projects\OnlineShop\OnlineShop.Logger\obj\Debug\net6.0\OnlineShop.Logger.pdb
+D:\Projects\OnlineShop\OnlineShop.Logger\obj\Debug\net6.0\ref\OnlineShop.Logger.dll

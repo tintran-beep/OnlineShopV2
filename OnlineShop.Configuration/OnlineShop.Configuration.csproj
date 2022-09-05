@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShop.Data\OnlineShop.Data.csproj" />
+    <ProjectReference Include="..\OnlineShop.Logger\OnlineShop.Logger.csproj" />
+    <ProjectReference Include="..\OnlineShop.Mapper\OnlineShop.Mapper.csproj" />
+    <ProjectReference Include="..\OnlineShop.Service\OnlineShop.Service.csproj" />
+  </ItemGroup>
+
+</Project>

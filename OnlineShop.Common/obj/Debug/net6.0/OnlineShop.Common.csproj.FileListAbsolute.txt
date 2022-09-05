@@ -1,0 +1,12 @@
+D:\Projects\OnlineShop\OnlineShop.Common\bin\Debug\net6.0\OnlineShop.Common.deps.json
+D:\Projects\OnlineShop\OnlineShop.Common\bin\Debug\net6.0\OnlineShop.Common.dll
+D:\Projects\OnlineShop\OnlineShop.Common\bin\Debug\net6.0\OnlineShop.Common.pdb
+D:\Projects\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.csproj.AssemblyReference.cache
+D:\Projects\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.AssemblyInfoInputs.cache
+D:\Projects\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.AssemblyInfo.cs
+D:\Projects\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.csproj.CoreCompileInputs.cache
+D:\Projects\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.dll
+D:\Projects\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\refint\OnlineShop.Common.dll
+D:\Projects\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\OnlineShop.Common.pdb
+D:\Projects\OnlineShop\OnlineShop.Common\obj\Debug\net6.0\ref\OnlineShop.Common.dll

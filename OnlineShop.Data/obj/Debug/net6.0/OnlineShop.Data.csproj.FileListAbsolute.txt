@@ -1,0 +1,17 @@
+D:\Projects\OnlineShop\OnlineShop.Data\bin\Debug\net6.0\OnlineShop.Data.deps.json
+D:\Projects\OnlineShop\OnlineShop.Data\bin\Debug\net6.0\OnlineShop.Data.runtimeconfig.json
+D:\Projects\OnlineShop\OnlineShop.Data\bin\Debug\net6.0\OnlineShop.Data.dll
+D:\Projects\OnlineShop\OnlineShop.Data\bin\Debug\net6.0\OnlineShop.Data.pdb
+D:\Projects\OnlineShop\OnlineShop.Data\bin\Debug\net6.0\OnlineShop.Common.dll
+D:\Projects\OnlineShop\OnlineShop.Data\bin\Debug\net6.0\OnlineShop.Common.pdb
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\OnlineShop.Data.csproj.AssemblyReference.cache
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\OnlineShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\OnlineShop.Data.AssemblyInfoInputs.cache
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\OnlineShop.Data.AssemblyInfo.cs
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\OnlineShop.Data.csproj.CoreCompileInputs.cache
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\OnlineShop.Data.csproj.CopyComplete
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\OnlineShop.Data.dll
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\refint\OnlineShop.Data.dll
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\OnlineShop.Data.pdb
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\OnlineShop.Data.genruntimeconfig.cache
+D:\Projects\OnlineShop\OnlineShop.Data\obj\Debug\net6.0\ref\OnlineShop.Data.dll
